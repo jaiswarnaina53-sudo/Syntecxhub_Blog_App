@@ -26,5 +26,3 @@ A full stack blog platform built with the MERN stack where users can register, l
 - JSON Web Token (JWT)
 - Multer (Image Upload)
 - Bcryptjs (Password Encryption)
-
-## 📁 Project Structure
